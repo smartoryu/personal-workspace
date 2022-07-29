@@ -1,16 +1,16 @@
-# ecommerce_app
+# Flutter eCommerce App
 
-Trying out eCommerce Project using Flutter
+This is the official Flutter Project for this course:
 
-## Getting Started
+- [Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
 
-This project is a starting point for a Flutter application.
+This will include a full-stack eCommerce app using Flutter & Firebase:
 
-A few resources to get you started if this is your first Flutter project:
+![eCommerce App Preview](/.github/images/ecommerce-app-preview.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+A Flutter web preview of the app can be found here:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter Web Demo](https://my-shop-ecommerce-stg.web.app/)
+
+
+### [LICENSE: MIT](../LICENSE.md)
